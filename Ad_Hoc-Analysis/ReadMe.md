@@ -1,22 +1,58 @@
-## Consumer Goods AdHoc Analysis
- ### Insights
-    Request-1 - Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
-        Result - Atliq Exclusive operates in markets like Australia, Bangladesh, India, Indonesia, Japan, New Zealand, Philippines, and South Korea in the APAC region.
-    Request-2 - What is the percentage of unique product increase in 2021 vs. 2020?
-        Result - There is a 36.33% increase in unique products, from 245 in 2020 to 334 in 2021. This indicates new innovations are being added to the list.
-    Request-3 - Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
-        Result - In terms of segment-wise unique products, Notebook has the most unique products (129), followed by Accessories (116), Peripherals (84), Desktop (32), Storage (27), and Networking (9).
-    Request-4 - Which segment had the most increase in unique products in 2021 vs 2020?
-        Result - Accessories had the highest increase of 16 in unique product count from 2020 to 2021, followed by Notebook & Peripherals with 16, Desktop with 15, Storage with 5, and Networking with 3.
-    Request-5 - Get the products that have the highest and lowest manufacturing costs.
-        Result - Q HOME Allin1 Gen 2 (A6120110206) of the Desktop segment has the highest manufacturing cost of $240.54, and AQ Master Wired x1 Ms (A2118150101) of the Accessories segment has the lowest manufacturing cost of $0.89.
-    Request-6 - Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market.
-        Result - The top 5 customers who received the highest pre-invoice discounts are Flipkart (0.308%), Viveks (0.304%), Croma and Ezone (0.303%), and Amazon (0.293%).
-    Request-7 - Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month
-        Result - Among all months of 2020 and 2021, November 2020 had the highest gross sales of $20,464,999.10, followed by October, December 2020, January 2021, and September 2020.
-    Request-8 - In which quarter of 2020, got the maximum total_sold_quantity?
-        Result - In 2020, Q1 had the highest sold quantity of 7,005,619, followed by Q2 with 6,649,642, Q4 with 5,042,541, and Q3 with 2,075,087.
-    Request-9 - Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution?
-        Result - Retailer contributed 73.23% to gross sales, amounting to $1,219.08 million, followed by Direct with 15.47% ($257.53 million) and Distributor with 11.30% ($188.03 million).
-    Request-10 - Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021?
-        Result - N&S Division: AQ Pen Drive 2 IN 1 (Rank 1, 1,159,222 sold), AQ Pen Drive DRC (Rank 2, 1,128,104 sold), AQ Clx1 (Rank 3, 729,696 sold). - P&A Division: AQ Gamers Ms (Rank 1, 683,634 sold), AQ Master Wireless x1 Ms (Rank 2, 682,321 sold), AQ Gamers Ms (Rank 3, 681,531 sold). - PC Division: AQ Digit (Rank 1, 26,012 sold), AQ Velocity (Rank 2, 25,978 sold), AQ Aspiron (Rank 3, 25,963 sold).
+### Consumer Goods Ad-Hoc Analysis
+
+This analysis provides insights based on various requests related to "Atliq Exclusive" and its operations in the APAC region.
+
+#### Insights
+
+1. **Market Presence (APAC)**
+   - "Atliq Exclusive" operates in the following markets: Australia, Bangladesh, India, Indonesia, Japan, New Zealand, Philippines, and South Korea.
+
+2. **Product Growth (2021 vs. 2020)**
+   - There was a 36.33% increase in unique products, growing from 245 in 2020 to 334 in 2021, reflecting new innovations.
+
+3. **Unique Product Counts by Segment**
+   - Ranked by descending product counts:
+     - **Notebook**: 129
+     - **Accessories**: 116
+     - **Peripherals**: 84
+     - **Desktop**: 32
+     - **Storage**: 27
+     - **Networking**: 9
+
+4. **Segment with Highest Product Increase (2021 vs. 2020)**
+   - **Accessories**: +16 unique products  
+   - Followed by Notebook & Peripherals (+16), Desktop (+15), Storage (+5), and Networking (+3).
+
+5. **Manufacturing Costs**
+   - **Highest Cost**: "Q HOME Allin1 Gen 2" ($240.54) in the Desktop segment.  
+   - **Lowest Cost**: "AQ Master Wired x1 Ms" ($0.89) in the Accessories segment.
+
+6. **Top 5 Customers by Average High Pre-Invoice Discount (2021, India Market)**
+   - Flipkart (0.308%), Viveks (0.304%), Croma and Ezone (0.303%), Amazon (0.293%).
+
+7. **Gross Sales Report for "Atliq Exclusive"**
+   - Highest gross sales occurred in **November 2020** ($20,464,999.10), followed by October 2020, December 2020, January 2021, and September 2020.
+
+8. **Quarter with Maximum Sold Quantity (2020)**
+   - **Q1**: 7,005,619 units  
+   - Followed by Q2 (6,649,642), Q4 (5,042,541), and Q3 (2,075,087).
+
+9. **Sales Channel Contribution (2021)**
+   - **Retailer**: 73.23% of gross sales ($1,219.08 million).  
+   - Followed by Direct (15.47%, $257.53 million) and Distributor (11.30%, $188.03 million).
+
+10. **Top 3 Products by Sold Quantity (2021)**
+    - **N&S Division**:
+      1. AQ Pen Drive 2 IN 1 (1,159,222 sold)
+      2. AQ Pen Drive DRC (1,128,104 sold)
+      3. AQ Clx1 (729,696 sold)
+    - **P&A Division**:
+      1. AQ Gamers Ms (683,634 sold)
+      2. AQ Master Wireless x1 Ms (682,321 sold)
+      3. AQ Gamers Ms (681,531 sold)
+    - **PC Division**:
+      1. AQ Digit (26,012 sold)
+      2. AQ Velocity (25,978 sold)
+      3. AQ Aspiron (25,963 sold)
+
+This summary captures key findings and metrics to assist in understanding "Atliq Exclusive's" market performance, product growth, sales dynamics, and customer insights in the APAC region.
